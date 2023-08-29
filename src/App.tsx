@@ -1,8 +1,5 @@
-import { Layout } from "common/index";
-import "./App.css";
-
 const App = () => {
-  <Layout></Layout>;
+  return <div>master</div>;
 };
 
 export default App;
