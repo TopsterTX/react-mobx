@@ -1,5 +1,7 @@
+import { Layout } from "common/index";
+
 const App = () => {
-  return <div>master</div>;
+  return <Layout></Layout>;
 };
 
 export default App;
